@@ -1,0 +1,17 @@
+p {
+    text-align: 2;
+}
+
+body {
+    background-color: red;
+}
+
+#ok {
+    background-color: #fff;
+    box-shadow: 0 2rem 1rem rgba(0, 0, 0, .1);
+}
+
+.item {
+    background-color: #fff;
+    box-shadow: 0 2rem 1rem rgba(0, 0, 0, .1);
+}
